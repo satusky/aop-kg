@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "aop": 584,
+    "biological-action": 11,
+    "biological-object": 494,
+    "biological-process": 555,
+    "chemical": 421,
+    "key-event": 1573,
+    "key-event-relationship": 2310,
+    "stressor": 738,
+    "taxonomy": 299,
+    "vendor-specific": 1
+  },
+  "input": "data/aopwiki/xml/aop-wiki-xml-2026-04-01.xml",
+  "schema_url": "https://raw.githubusercontent.com/swandle06/AopXml/2.7.0/assets/schema/current.xsd"
+}

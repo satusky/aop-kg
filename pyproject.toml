@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aop-kg"
+version = "0.1.0"
+description = "Knowledge graph tools for Adverse Outcome Pathways"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "igraph>=1.0.0",
+]
+
+[project.scripts]
+aopwiki-convert = "aop_kg.aopwiki.convert_xml:main"
+aopwiki-visualize = "aop_kg.aopwiki.visualize_graph:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+aop_kg = ["py.typed"]

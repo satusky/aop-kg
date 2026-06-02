@@ -1,0 +1,2089 @@
+{
+  "00b8087d-b3e9-4ee0-803e-bbc380243552": {
+    "id": "00b8087d-b3e9-4ee0-803e-bbc380243552",
+    "name": "Crocuta crocuta",
+    "source": "NCBI",
+    "source_id": "9678",
+    "type": "taxonomy"
+  },
+  "01e6a901-77ed-43e7-a33e-ff81e0d58ba4": {
+    "id": "01e6a901-77ed-43e7-a33e-ff81e0d58ba4",
+    "name": "cynomolgus monkey",
+    "source": "NCBI",
+    "source_id": "9541",
+    "type": "taxonomy"
+  },
+  "02b04295-989f-4bce-b0f5-b76a7d430d88": {
+    "id": "02b04295-989f-4bce-b0f5-b76a7d430d88",
+    "name": "Syrian hamsters",
+    "source": "NCBI",
+    "source_id": "10036",
+    "type": "taxonomy"
+  },
+  "02c6ce05-9056-41b8-a028-586e11ea97e0": {
+    "id": "02c6ce05-9056-41b8-a028-586e11ea97e0",
+    "name": "fathead minnow",
+    "source": "common ecological species",
+    "source_id": "WCS_90988",
+    "type": "taxonomy"
+  },
+  "02f2bb63-fb65-403b-ab13-d64b81f90c2a": {
+    "id": "02f2bb63-fb65-403b-ab13-d64b81f90c2a",
+    "name": "baboon",
+    "source": "NCBI",
+    "source_id": "9555",
+    "type": "taxonomy"
+  },
+  "05241e2f-93b5-4d37-9bec-4d30c5e7f60b": {
+    "id": "05241e2f-93b5-4d37-9bec-4d30c5e7f60b",
+    "name": "Gyps coprotheres",
+    "source": "NCBI",
+    "source_id": "8966",
+    "type": "taxonomy"
+  },
+  "08da1bef-d1fd-4162-b143-c7b9107d9012": {
+    "id": "08da1bef-d1fd-4162-b143-c7b9107d9012",
+    "name": "bank vole",
+    "source": "NCBI",
+    "source_id": "447135",
+    "type": "taxonomy"
+  },
+  "0a16af54-a409-4c48-8e11-8e4ce90fe1d4": {
+    "id": "0a16af54-a409-4c48-8e11-8e4ce90fe1d4",
+    "name": "birds",
+    "source": "common ecological species",
+    "source_id": "WCS_72873",
+    "type": "taxonomy"
+  },
+  "0a1c1bca-c550-4e31-85a5-a00bd8b9fea4": {
+    "id": "0a1c1bca-c550-4e31-85a5-a00bd8b9fea4",
+    "name": "Gyps bengalensis",
+    "source": "NCBI",
+    "source_id": "43491",
+    "type": "taxonomy"
+  },
+  "0a20ec87-37d4-4ae3-ae99-9860e09e4194": {
+    "id": "0a20ec87-37d4-4ae3-ae99-9860e09e4194",
+    "name": "Paracyclopina nana",
+    "source": "NCBI",
+    "source_id": "565004",
+    "type": "taxonomy"
+  },
+  "0a493e30-1829-46fb-97fd-d5ba9839a639": {
+    "id": "0a493e30-1829-46fb-97fd-d5ba9839a639",
+    "name": "African green monkeys",
+    "source": "NCBI",
+    "source_id": "9534",
+    "type": "taxonomy"
+  },
+  "0b57108c-ebf0-40e9-91b4-0c83793fd3aa": {
+    "id": "0b57108c-ebf0-40e9-91b4-0c83793fd3aa",
+    "name": "Odocoileus hemionus",
+    "source": "NCBI",
+    "source_id": "9872",
+    "type": "taxonomy"
+  },
+  "0c21fa77-464d-483a-98a5-988ba352f3ac": {
+    "id": "0c21fa77-464d-483a-98a5-988ba352f3ac",
+    "name": "rhesus macaque",
+    "source": "NCBI",
+    "source_id": "9544",
+    "type": "taxonomy"
+  },
+  "0d8f13b2-29b9-4695-894c-7cc21d052257": {
+    "id": "0d8f13b2-29b9-4695-894c-7cc21d052257",
+    "name": "Radopholus similis",
+    "source": "NCBI",
+    "source_id": "46012",
+    "type": "taxonomy"
+  },
+  "0fcdbb12-ec8f-426c-9761-fe9066ab7956": {
+    "id": "0fcdbb12-ec8f-426c-9761-fe9066ab7956",
+    "name": "bovine",
+    "source": "NCBI",
+    "source_id": "9913",
+    "type": "taxonomy"
+  },
+  "0fe6b42b-e876-49ac-844e-184349da426c": {
+    "id": "0fe6b42b-e876-49ac-844e-184349da426c",
+    "name": "tree shrew",
+    "source": "NCBI",
+    "source_id": "9395",
+    "type": "taxonomy"
+  },
+  "11358814-d823-43b7-9c9d-29b8fe00b8a8": {
+    "id": "11358814-d823-43b7-9c9d-29b8fe00b8a8",
+    "name": "European rabbit",
+    "source": "NCBI",
+    "source_id": "9986",
+    "type": "taxonomy"
+  },
+  "11b848ad-c2ff-42f8-be6c-58db3b607b35": {
+    "id": "11b848ad-c2ff-42f8-be6c-58db3b607b35",
+    "name": "Aves",
+    "source": "NCBI",
+    "source_id": "8782",
+    "type": "taxonomy"
+  },
+  "121a2f3f-e1ed-44fe-8320-97dca978f2e8": {
+    "id": "121a2f3f-e1ed-44fe-8320-97dca978f2e8",
+    "name": "Mus sp. 2000082",
+    "source": "NCBI",
+    "source_id": "310402",
+    "type": "taxonomy"
+  },
+  "13197271-5b1b-467e-9c5b-84e54f1f953a": {
+    "id": "13197271-5b1b-467e-9c5b-84e54f1f953a",
+    "name": "Rattus rattus",
+    "source": "NCBI",
+    "source_id": "10117",
+    "type": "taxonomy"
+  },
+  "13461590-5cbf-4363-83fe-506b32fde9d9": {
+    "id": "13461590-5cbf-4363-83fe-506b32fde9d9",
+    "name": "Chlamydomonas reinhardtii",
+    "source": "NCBI",
+    "source_id": "3055",
+    "type": "taxonomy"
+  },
+  "1394e80e-0b6b-4c8d-aa3b-f61ea7273a81": {
+    "id": "1394e80e-0b6b-4c8d-aa3b-f61ea7273a81",
+    "name": "rhesus monkeys",
+    "source": "NCBI",
+    "source_id": "9544",
+    "type": "taxonomy"
+  },
+  "1595bd9a-1baf-4d36-9703-28322833a974": {
+    "id": "1595bd9a-1baf-4d36-9703-28322833a974",
+    "name": "Perca flavescens",
+    "source": "NCBI",
+    "source_id": "8167",
+    "type": "taxonomy"
+  },
+  "163b6616-95f8-422a-815d-4ddf34979416": {
+    "id": "163b6616-95f8-422a-815d-4ddf34979416",
+    "name": "Fundulus heteroclitus",
+    "source": "NCBI",
+    "source_id": "8078",
+    "type": "taxonomy"
+  },
+  "17cdb7c4-1b00-40d7-97e8-0c7a95fd6da7": {
+    "id": "17cdb7c4-1b00-40d7-97e8-0c7a95fd6da7",
+    "name": "Hamster",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_9",
+    "type": "taxonomy"
+  },
+  "18a383e0-4511-4d8c-9e40-d8c801589e3c": {
+    "id": "18a383e0-4511-4d8c-9e40-d8c801589e3c",
+    "name": "Tilapia mossambica",
+    "source": "NCBI",
+    "source_id": "8127",
+    "type": "taxonomy"
+  },
+  "18dbf340-321a-4a86-b2a2-70c5a626fe0d": {
+    "id": "18dbf340-321a-4a86-b2a2-70c5a626fe0d",
+    "name": "lowland gorilla",
+    "source": "NCBI",
+    "source_id": "9595",
+    "type": "taxonomy"
+  },
+  "18eb894f-29cf-4c0b-a1ea-01a6007f2a04": {
+    "id": "18eb894f-29cf-4c0b-a1ea-01a6007f2a04",
+    "name": "Lacerta vivipara",
+    "source": "NCBI",
+    "source_id": "8524",
+    "type": "taxonomy"
+  },
+  "1959bf71-dcf0-41c7-b73e-cbbb11570ee8": {
+    "id": "1959bf71-dcf0-41c7-b73e-cbbb11570ee8",
+    "name": "Vertebrates",
+    "source_id": "WikiUser_28",
+    "type": "taxonomy"
+  },
+  "19eb7ba8-e72e-4fc0-bea6-fd9d602f6e6e": {
+    "id": "19eb7ba8-e72e-4fc0-bea6-fd9d602f6e6e",
+    "name": "Aphis glycines",
+    "source": "NCBI",
+    "source_id": "307491",
+    "type": "taxonomy"
+  },
+  "1a479472-93a5-472c-81c9-1c65c76c9773": {
+    "id": "1a479472-93a5-472c-81c9-1c65c76c9773",
+    "name": "bobwhite quail",
+    "source": "NCBI",
+    "source_id": "9014",
+    "type": "taxonomy"
+  },
+  "1c2091de-f584-4a84-8209-d532c8b8a391": {
+    "id": "1c2091de-f584-4a84-8209-d532c8b8a391",
+    "name": "Panthera uncia",
+    "source": "NCBI",
+    "source_id": "29064",
+    "type": "taxonomy"
+  },
+  "1cdf4b12-7bff-4be1-bc1c-e22f32f51615": {
+    "id": "1cdf4b12-7bff-4be1-bc1c-e22f32f51615",
+    "name": "zebrafish",
+    "source": "common ecological species",
+    "source_id": "WCS_7955",
+    "type": "taxonomy"
+  },
+  "1db1ebc4-42cf-46a1-bb93-873134f96ea2": {
+    "id": "1db1ebc4-42cf-46a1-bb93-873134f96ea2",
+    "name": "Melibe leonine",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_8",
+    "type": "taxonomy"
+  },
+  "1ecc153d-6926-4799-9374-5470edc1a027": {
+    "id": "1ecc153d-6926-4799-9374-5470edc1a027",
+    "name": "Murinae gen. sp.",
+    "source": "NCBI",
+    "source_id": "39108",
+    "type": "taxonomy"
+  },
+  "1ee97aa2-246e-4d75-84ed-ff5d7fb199f6": {
+    "id": "1ee97aa2-246e-4d75-84ed-ff5d7fb199f6",
+    "name": "Orius insidiosus",
+    "source": "NCBI",
+    "source_id": "83647",
+    "type": "taxonomy"
+  },
+  "1eeae097-8b79-4879-a7c7-049b2398ef19": {
+    "id": "1eeae097-8b79-4879-a7c7-049b2398ef19",
+    "name": "Helicoverpa zea",
+    "source": "NCBI",
+    "source_id": "7113",
+    "type": "taxonomy"
+  },
+  "1f88711c-0a39-407c-bf8a-0f602fdc267f": {
+    "id": "1f88711c-0a39-407c-bf8a-0f602fdc267f",
+    "name": "Gyps africanus",
+    "source": "NCBI",
+    "source_id": "43490",
+    "type": "taxonomy"
+  },
+  "1fa4be1d-38cf-4bec-9fe5-d1c2a84c296e": {
+    "id": "1fa4be1d-38cf-4bec-9fe5-d1c2a84c296e",
+    "name": "Canis familiaris",
+    "source": "NCBI",
+    "source_id": "9615",
+    "type": "taxonomy"
+  },
+  "209c7425-9491-4694-b292-3eaa9db6ed3a": {
+    "id": "209c7425-9491-4694-b292-3eaa9db6ed3a",
+    "name": "Oryctolagus sp.",
+    "source": "NCBI",
+    "source_id": "60556",
+    "type": "taxonomy"
+  },
+  "21d2255c-f3fe-4798-8350-f742556c7cd4": {
+    "id": "21d2255c-f3fe-4798-8350-f742556c7cd4",
+    "name": "honeybee",
+    "source": "NCBI",
+    "source_id": "7460",
+    "type": "taxonomy"
+  },
+  "2386f691-1de0-4df6-afd4-fc24732fcfbb": {
+    "id": "2386f691-1de0-4df6-afd4-fc24732fcfbb",
+    "name": "Rattus norvegicus",
+    "source": "NCBI",
+    "source_id": "10116",
+    "type": "taxonomy"
+  },
+  "24879889-3a29-4e59-9769-34a8953650ad": {
+    "id": "24879889-3a29-4e59-9769-34a8953650ad",
+    "name": "Peromyscus maniculatus bairdii",
+    "source": "NCBI",
+    "source_id": "230844",
+    "type": "taxonomy"
+  },
+  "2535ef7e-b904-4b77-bc7a-feffea069651": {
+    "id": "2535ef7e-b904-4b77-bc7a-feffea069651",
+    "name": "Lepeophtheirus salmonis",
+    "source": "NCBI",
+    "source_id": "72036",
+    "type": "taxonomy"
+  },
+  "25ae63e5-2150-472e-9727-fd56062e7cbf": {
+    "id": "25ae63e5-2150-472e-9727-fd56062e7cbf",
+    "name": "Bradysia hygida",
+    "source": "NCBI",
+    "source_id": "35572",
+    "type": "taxonomy"
+  },
+  "261b4d19-2944-45f3-bfb7-2a5cbf51e0ce": {
+    "id": "261b4d19-2944-45f3-bfb7-2a5cbf51e0ce",
+    "name": "Zoarces viviparus",
+    "source": "NCBI",
+    "source_id": "48416",
+    "type": "taxonomy"
+  },
+  "26988189-979b-4098-91f8-4d5a525d7cbf": {
+    "id": "26988189-979b-4098-91f8-4d5a525d7cbf",
+    "name": "Xenopus laevis",
+    "source": "common ecological species",
+    "source_id": "WCS_8355",
+    "type": "taxonomy"
+  },
+  "27c2c46d-3808-436c-9046-f06031b3aa34": {
+    "id": "27c2c46d-3808-436c-9046-f06031b3aa34",
+    "name": "Monodelphis domestica",
+    "source": "NCBI",
+    "source_id": "13616",
+    "type": "taxonomy"
+  },
+  "290f71ad-67ba-4bc5-8e76-9deb8c33c78a": {
+    "id": "290f71ad-67ba-4bc5-8e76-9deb8c33c78a",
+    "name": "Ovis orientalis aries",
+    "source": "NCBI",
+    "source_id": "9940",
+    "type": "taxonomy"
+  },
+  "2950c112-f94a-47b4-87a2-93df2745cc78": {
+    "id": "2950c112-f94a-47b4-87a2-93df2745cc78",
+    "name": "Mustela furo",
+    "source": "NCBI",
+    "source_id": "9669",
+    "type": "taxonomy"
+  },
+  "2a698a7b-6809-4f30-abbc-78f2f3a64bcc": {
+    "id": "2a698a7b-6809-4f30-abbc-78f2f3a64bcc",
+    "name": "African clawed frog",
+    "source": "common ecological species",
+    "source_id": "WCS_8355",
+    "type": "taxonomy"
+  },
+  "2be12d24-6c68-4178-a55c-3fbbc8e17bac": {
+    "id": "2be12d24-6c68-4178-a55c-3fbbc8e17bac",
+    "name": "Oryzias latipes",
+    "source": "NCBI",
+    "source_id": "8090",
+    "type": "taxonomy"
+  },
+  "2ce83655-efae-4c24-823a-03962fd91fb0": {
+    "id": "2ce83655-efae-4c24-823a-03962fd91fb0",
+    "name": "Schmidtea mediterranea",
+    "source": "NCBI",
+    "source_id": "79327",
+    "type": "taxonomy"
+  },
+  "2d2b7059-b41d-4a92-8f23-5fc074a6a836": {
+    "id": "2d2b7059-b41d-4a92-8f23-5fc074a6a836",
+    "name": "Mytilus galloprovincialis",
+    "source": "NCBI",
+    "source_id": "29158",
+    "type": "taxonomy"
+  },
+  "2dac5fe4-4606-498c-9db0-01700395e6ae": {
+    "id": "2dac5fe4-4606-498c-9db0-01700395e6ae",
+    "name": "Monkey",
+    "source": "Wikiuser: Ftschudi",
+    "source_id": "WikiUser_14",
+    "type": "taxonomy"
+  },
+  "2decc72b-47f8-4f2f-8160-0bf7d357c29e": {
+    "id": "2decc72b-47f8-4f2f-8160-0bf7d357c29e",
+    "name": "Lynx canadensis",
+    "source": "NCBI",
+    "source_id": "61383",
+    "type": "taxonomy"
+  },
+  "2df1d031-d1a0-4ed4-ad12-2102ca91b6e8": {
+    "id": "2df1d031-d1a0-4ed4-ad12-2102ca91b6e8",
+    "name": "Helix lucorum",
+    "source": "NCBI",
+    "source_id": "31229",
+    "type": "taxonomy"
+  },
+  "2e24f91f-9cc9-4cf7-be41-eb1722445d6e": {
+    "id": "2e24f91f-9cc9-4cf7-be41-eb1722445d6e",
+    "name": "Felis catus",
+    "source": "NCBI",
+    "source_id": "9685",
+    "type": "taxonomy"
+  },
+  "2e670dac-6a8a-4a98-99cd-b150502dcbb2": {
+    "id": "2e670dac-6a8a-4a98-99cd-b150502dcbb2",
+    "name": "American mink",
+    "source": "common ecological species",
+    "source_id": "WCS_452646",
+    "type": "taxonomy"
+  },
+  "2eb2377a-7fe5-4ce2-9a75-c9b34b7f2526": {
+    "id": "2eb2377a-7fe5-4ce2-9a75-c9b34b7f2526",
+    "name": "Pisum sativum",
+    "source": "NCBI",
+    "source_id": "3888",
+    "type": "taxonomy"
+  },
+  "2fe8b7ef-ea8c-43e0-97c7-d946cfcf40c7": {
+    "id": "2fe8b7ef-ea8c-43e0-97c7-d946cfcf40c7",
+    "name": "Liriomyza trifolii",
+    "source": "NCBI",
+    "source_id": "198433",
+    "type": "taxonomy"
+  },
+  "30491e3b-ecfc-49bc-a06e-da3ac6c6f5b6": {
+    "id": "30491e3b-ecfc-49bc-a06e-da3ac6c6f5b6",
+    "name": "CD-1 mouse",
+    "source": "NCBI",
+    "source_id": "10090",
+    "type": "taxonomy"
+  },
+  "30725ade-ed41-472c-a693-4492ba5f0abe": {
+    "id": "30725ade-ed41-472c-a693-4492ba5f0abe",
+    "name": "herring gull",
+    "source": "NCBI",
+    "source_id": "35669",
+    "type": "taxonomy"
+  },
+  "314f99a3-9aae-4b70-86cf-08d82f1263b9": {
+    "id": "314f99a3-9aae-4b70-86cf-08d82f1263b9",
+    "name": "Manis javanica",
+    "source": "NCBI",
+    "source_id": "9974",
+    "type": "taxonomy"
+  },
+  "329bb799-73e2-4ad8-bfc6-66828f27fc61": {
+    "id": "329bb799-73e2-4ad8-bfc6-66828f27fc61",
+    "name": "Chilo suppressalis",
+    "source": "NCBI",
+    "source_id": "168631",
+    "type": "taxonomy"
+  },
+  "32d60a80-54a5-4f5b-b0ef-49af32666694": {
+    "id": "32d60a80-54a5-4f5b-b0ef-49af32666694",
+    "name": "Coturnix japonica",
+    "source": "common ecological species",
+    "source_id": "WCS_93934",
+    "type": "taxonomy"
+  },
+  "34698b3d-8dba-410e-b158-f25b15f7d3fd": {
+    "id": "34698b3d-8dba-410e-b158-f25b15f7d3fd",
+    "name": "Oncorhynchus mykiss",
+    "source": "common ecological species",
+    "source_id": "WCS_8022",
+    "type": "taxonomy"
+  },
+  "34ff7abc-ef2c-46f8-8cce-8ea0c49c2d16": {
+    "id": "34ff7abc-ef2c-46f8-8cce-8ea0c49c2d16",
+    "name": "Cavia porcellus",
+    "source": "NCBI",
+    "source_id": "10141",
+    "type": "taxonomy"
+  },
+  "350855d4-96e1-427e-a3ad-fe41a1417c77": {
+    "id": "350855d4-96e1-427e-a3ad-fe41a1417c77",
+    "name": "cow",
+    "source": "NCBI",
+    "source_id": "9913",
+    "type": "taxonomy"
+  },
+  "351f6d6c-6345-4960-a811-11076a3b933d": {
+    "id": "351f6d6c-6345-4960-a811-11076a3b933d",
+    "name": "Lemna gibba",
+    "source": "common ecological species",
+    "source_id": "WCS_4470",
+    "type": "taxonomy"
+  },
+  "372d09a2-580c-49a6-a396-85a08cb1009f": {
+    "id": "372d09a2-580c-49a6-a396-85a08cb1009f",
+    "name": "Caenorhabditis elegans",
+    "source": "NCBI",
+    "source_id": "6239",
+    "type": "taxonomy"
+  },
+  "37db1c3f-888d-4e4f-a980-174472a3333b": {
+    "id": "37db1c3f-888d-4e4f-a980-174472a3333b",
+    "name": "Arabidopsis thaliana",
+    "source": "common ecological species",
+    "source_id": "WCS_3702",
+    "type": "taxonomy"
+  },
+  "37fb0baf-25a3-4eba-bed6-2248cf85fd21": {
+    "id": "37fb0baf-25a3-4eba-bed6-2248cf85fd21",
+    "name": "Golden hamsters",
+    "source": "NCBI",
+    "source_id": "10036",
+    "type": "taxonomy"
+  },
+  "39cf5d32-742d-4c0f-9f7a-002083d6b259": {
+    "id": "39cf5d32-742d-4c0f-9f7a-002083d6b259",
+    "name": "guinea pig",
+    "source": "NCBI",
+    "source_id": "10141",
+    "type": "taxonomy"
+  },
+  "39e180ce-c413-496a-8432-8f2475d73f65": {
+    "id": "39e180ce-c413-496a-8432-8f2475d73f65",
+    "name": "Aegypius monachus",
+    "source": "common ecological species",
+    "source_id": "WCS_8959",
+    "type": "taxonomy"
+  },
+  "3a8f1a24-4558-4bf7-bb62-253450904a55": {
+    "id": "3a8f1a24-4558-4bf7-bb62-253450904a55",
+    "name": "Phaeodactylum tricornutum",
+    "source": "NCBI",
+    "source_id": "2850",
+    "type": "taxonomy"
+  },
+  "3a9fbcd6-7c33-40e8-8d0c-4e7a303806f4": {
+    "id": "3a9fbcd6-7c33-40e8-8d0c-4e7a303806f4",
+    "name": "Insecta sp. BOLD:AAN5199",
+    "source": "NCBI",
+    "source_id": "1186497",
+    "type": "taxonomy"
+  },
+  "3cfe3ad6-ab67-4845-830f-19fa36ead196": {
+    "id": "3cfe3ad6-ab67-4845-830f-19fa36ead196",
+    "name": "Panthera tigris jacksoni",
+    "source": "NCBI",
+    "source_id": "419130",
+    "type": "taxonomy"
+  },
+  "3d3d0d68-85f5-4979-9819-8c196f13363f": {
+    "id": "3d3d0d68-85f5-4979-9819-8c196f13363f",
+    "name": "Rana catesbeiana",
+    "source": "common ecological species",
+    "source_id": "WCS_8400",
+    "type": "taxonomy"
+  },
+  "3dc1b409-2318-43a3-9701-2c26dd0ed8bc": {
+    "id": "3dc1b409-2318-43a3-9701-2c26dd0ed8bc",
+    "name": "chicken",
+    "source": "common ecological species",
+    "source_id": "WCS_9031",
+    "type": "taxonomy"
+  },
+  "3e7ed781-7557-4905-bb56-8fbbd8443a21": {
+    "id": "3e7ed781-7557-4905-bb56-8fbbd8443a21",
+    "name": "rabbit",
+    "source": "common toxicological species",
+    "source_id": "WCS_9986",
+    "type": "taxonomy"
+  },
+  "3ef1a91a-bbc3-4d35-bd3a-197cd7f9847c": {
+    "id": "3ef1a91a-bbc3-4d35-bd3a-197cd7f9847c",
+    "name": "Mustela lutreola",
+    "source": "NCBI",
+    "source_id": "9666",
+    "type": "taxonomy"
+  },
+  "3f0479d0-b948-4b5a-97af-97deb0eb86a9": {
+    "id": "3f0479d0-b948-4b5a-97af-97deb0eb86a9",
+    "name": "Hyalophora cecropia",
+    "source": "NCBI",
+    "source_id": "7123",
+    "type": "taxonomy"
+  },
+  "3f855597-1932-4a4a-bcc5-1dc6644de9df": {
+    "id": "3f855597-1932-4a4a-bcc5-1dc6644de9df",
+    "name": "Daphnia parvula",
+    "source": "NCBI",
+    "source_id": "132684",
+    "type": "taxonomy"
+  },
+  "3f9a91a6-b411-4525-a6d1-6f3df53fb421": {
+    "id": "3f9a91a6-b411-4525-a6d1-6f3df53fb421",
+    "name": "Pagrus major",
+    "source": "NCBI",
+    "source_id": "143350",
+    "type": "taxonomy"
+  },
+  "3fe342a3-e31f-4f95-b3cb-414982c4fdd0": {
+    "id": "3fe342a3-e31f-4f95-b3cb-414982c4fdd0",
+    "name": "Rattus sp. ABTC 42503",
+    "source": "NCBI",
+    "source_id": "435435",
+    "type": "taxonomy"
+  },
+  "402a4250-1551-45f5-b2dc-09de94c5e870": {
+    "id": "402a4250-1551-45f5-b2dc-09de94c5e870",
+    "name": "Sebastiscus marmoratus",
+    "source": "NCBI",
+    "source_id": "41446",
+    "type": "taxonomy"
+  },
+  "403313ee-45fe-4281-842d-266f6bdbfcfe": {
+    "id": "403313ee-45fe-4281-842d-266f6bdbfcfe",
+    "name": "northern leopard frog",
+    "source": "common ecological species",
+    "source_id": "WCS_8404",
+    "type": "taxonomy"
+  },
+  "4086d3be-4ebc-46b3-95dc-ef88267e30b1": {
+    "id": "4086d3be-4ebc-46b3-95dc-ef88267e30b1",
+    "name": "Saccharomyces cerevisiae",
+    "source": "NCBI",
+    "source_id": "4932",
+    "type": "taxonomy"
+  },
+  "41324f48-a584-4a31-92d0-d2726ebe9732": {
+    "id": "41324f48-a584-4a31-92d0-d2726ebe9732",
+    "name": "Pieris brassicae",
+    "source": "NCBI",
+    "source_id": "7116",
+    "type": "taxonomy"
+  },
+  "420afe08-fadb-47f7-afd5-2477f7af86d9": {
+    "id": "420afe08-fadb-47f7-afd5-2477f7af86d9",
+    "name": "Rattus sp.",
+    "source": "NCBI",
+    "source_id": "10118",
+    "type": "taxonomy"
+  },
+  "439a7454-01c7-463f-ae2c-8bb2ebd760ce": {
+    "id": "439a7454-01c7-463f-ae2c-8bb2ebd760ce",
+    "name": "Brassica napus",
+    "source": "NCBI",
+    "source_id": "3708",
+    "type": "taxonomy"
+  },
+  "44ea3d77-64a0-4c6c-b43b-cba8d4e32dd2": {
+    "id": "44ea3d77-64a0-4c6c-b43b-cba8d4e32dd2",
+    "name": "Arctica islandica",
+    "source": "NCBI",
+    "source_id": "59239",
+    "type": "taxonomy"
+  },
+  "4881505e-1260-4037-bf40-d0960fb02479": {
+    "id": "4881505e-1260-4037-bf40-d0960fb02479",
+    "name": "Ring-necked pheasant",
+    "source": "common ecological species",
+    "source_id": "WCS_9054",
+    "type": "taxonomy"
+  },
+  "48a02917-aa99-4b13-abd4-a1a367940abd": {
+    "id": "48a02917-aa99-4b13-abd4-a1a367940abd",
+    "name": "Trichoplusia ni",
+    "source": "NCBI",
+    "source_id": "7111",
+    "type": "taxonomy"
+  },
+  "48be5e93-8e97-43c5-860c-9a6fa1ced800": {
+    "id": "48be5e93-8e97-43c5-860c-9a6fa1ced800",
+    "name": "Vulpes vulpes",
+    "source": "NCBI",
+    "source_id": "9627",
+    "type": "taxonomy"
+  },
+  "499b85f6-8b1f-4223-ae1d-d8f8e9603392": {
+    "id": "499b85f6-8b1f-4223-ae1d-d8f8e9603392",
+    "name": "mammals",
+    "source_id": "WikiUser_17",
+    "type": "taxonomy"
+  },
+  "49f06515-fd0c-45ab-899f-05713ed18022": {
+    "id": "49f06515-fd0c-45ab-899f-05713ed18022",
+    "name": "Ectropis obliqua",
+    "source": "NCBI",
+    "source_id": "248899",
+    "type": "taxonomy"
+  },
+  "4bbdd98a-eada-4382-be13-2991a5b398ad": {
+    "id": "4bbdd98a-eada-4382-be13-2991a5b398ad",
+    "name": "salmonid fish",
+    "source": "NCBI",
+    "source_id": "36500",
+    "type": "taxonomy"
+  },
+  "4dd44ed7-06cc-4c5e-8f97-ab93d8270bdc": {
+    "id": "4dd44ed7-06cc-4c5e-8f97-ab93d8270bdc",
+    "name": "Daphnia middendorffiana",
+    "source": "NCBI",
+    "source_id": "35526",
+    "type": "taxonomy"
+  },
+  "4f8dbb39-9d4e-4f25-b603-6e1c53602be9": {
+    "id": "4f8dbb39-9d4e-4f25-b603-6e1c53602be9",
+    "name": "Sus scrofa domesticus",
+    "source": "NCBI",
+    "source_id": "9825",
+    "type": "taxonomy"
+  },
+  "516dc771-0ffa-4f13-a9ba-924200924ad9": {
+    "id": "516dc771-0ffa-4f13-a9ba-924200924ad9",
+    "name": "Bombyx mori",
+    "source": "NCBI",
+    "source_id": "7091",
+    "type": "taxonomy"
+  },
+  "53e775f3-7b33-4645-9ae0-a5c54d5c6973": {
+    "id": "53e775f3-7b33-4645-9ae0-a5c54d5c6973",
+    "name": "Lemna minor",
+    "source": "common ecological species",
+    "source_id": "WCS_4472",
+    "type": "taxonomy"
+  },
+  "55460cfd-eee7-4756-9415-81e6bc0bfd4b": {
+    "id": "55460cfd-eee7-4756-9415-81e6bc0bfd4b",
+    "name": "hydra",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_3",
+    "type": "taxonomy"
+  },
+  "55ba8dfd-5546-4671-90b4-904c763e6df2": {
+    "id": "55ba8dfd-5546-4671-90b4-904c763e6df2",
+    "name": "mouse",
+    "source": "NCBI",
+    "source_id": "10090",
+    "type": "taxonomy"
+  },
+  "5603c477-5c99-4c18-a470-759054988261": {
+    "id": "5603c477-5c99-4c18-a470-759054988261",
+    "name": "Daphnia pulex",
+    "source": "common ecological species",
+    "source_id": "WCS_6669",
+    "type": "taxonomy"
+  },
+  "561316d6-51b1-496a-af87-a8c905ecd87d": {
+    "id": "561316d6-51b1-496a-af87-a8c905ecd87d",
+    "name": "Ambystoma mexicanum",
+    "source": "NCBI",
+    "source_id": "8296",
+    "type": "taxonomy"
+  },
+  "566a50c0-7978-4288-83ca-bfef8b9c27a1": {
+    "id": "566a50c0-7978-4288-83ca-bfef8b9c27a1",
+    "name": "Japanese quail",
+    "source": "common ecological species",
+    "source_id": "WCS_93934",
+    "type": "taxonomy"
+  },
+  "568fc931-f437-4406-bd43-cee0ff9c43a2": {
+    "id": "568fc931-f437-4406-bd43-cee0ff9c43a2",
+    "name": "rodents",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_26",
+    "type": "taxonomy"
+  },
+  "57f27f63-4610-4a9c-93a1-d7c203ba9051": {
+    "id": "57f27f63-4610-4a9c-93a1-d7c203ba9051",
+    "name": "red-eared slider",
+    "source": "NCBI",
+    "source_id": "34903",
+    "type": "taxonomy"
+  },
+  "58cba370-5d65-407a-92bb-d305bec2c5af": {
+    "id": "58cba370-5d65-407a-92bb-d305bec2c5af",
+    "name": "Xenopus (Silurana) epitropicalis",
+    "source": "NCBI",
+    "source_id": "224340",
+    "type": "taxonomy"
+  },
+  "5be805c0-519e-4f12-a4cc-8efeed35d305": {
+    "id": "5be805c0-519e-4f12-a4cc-8efeed35d305",
+    "name": "crustaceans",
+    "source": "common ecological species",
+    "source_id": "WCS_35525",
+    "type": "taxonomy"
+  },
+  "5ca12fbd-0272-4dab-a9b9-8db896fa2ee7": {
+    "id": "5ca12fbd-0272-4dab-a9b9-8db896fa2ee7",
+    "name": "Pig",
+    "source": "Wikiuser:Migration",
+    "source_id": "WikiUser_24",
+    "type": "taxonomy"
+  },
+  "5d68b3f6-a74e-42a6-a723-056003d1378b": {
+    "id": "5d68b3f6-a74e-42a6-a723-056003d1378b",
+    "name": "Anopheles gambiae",
+    "source": "common ecological species",
+    "source_id": "WCS_7165",
+    "type": "taxonomy"
+  },
+  "5dff4838-88e7-4f96-8179-8a564285477b": {
+    "id": "5dff4838-88e7-4f96-8179-8a564285477b",
+    "name": "Mesocricetus auratus",
+    "source": "NCBI",
+    "source_id": "10036",
+    "type": "taxonomy"
+  },
+  "5efa0e0d-d796-4a26-b193-5e8c890644dc": {
+    "id": "5efa0e0d-d796-4a26-b193-5e8c890644dc",
+    "name": "Neotoma cinerea",
+    "source": "NCBI",
+    "source_id": "105147",
+    "type": "taxonomy"
+  },
+  "60322b5e-6855-4fe0-a282-a7685db6ce2b": {
+    "id": "60322b5e-6855-4fe0-a282-a7685db6ce2b",
+    "name": "human and other cells in culture",
+    "source": "Wikiuser: Cyauk",
+    "source_id": "WikiUser_25",
+    "type": "taxonomy"
+  },
+  "61d04cf4-d05e-4234-af47-e67ce4233bcb": {
+    "id": "61d04cf4-d05e-4234-af47-e67ce4233bcb",
+    "name": "Arthropoda",
+    "source": "NCBI",
+    "source_id": "6656",
+    "type": "taxonomy"
+  },
+  "62fa35f8-c944-4aac-bd41-9cca0d7a376a": {
+    "id": "62fa35f8-c944-4aac-bd41-9cca0d7a376a",
+    "name": "Tupaia belangeri",
+    "source": "NCBI",
+    "source_id": "37347",
+    "type": "taxonomy"
+  },
+  "6559c7eb-b754-466b-942b-d6e32f0fccdc": {
+    "id": "6559c7eb-b754-466b-942b-d6e32f0fccdc",
+    "name": "Double-crested cormorant",
+    "source_id": "WikiUser_20",
+    "type": "taxonomy"
+  },
+  "67cd763d-1b64-4ca6-a32f-51bdcd018198": {
+    "id": "67cd763d-1b64-4ca6-a32f-51bdcd018198",
+    "name": "Invertebrates",
+    "source_id": "WikiUser_29",
+    "type": "taxonomy"
+  },
+  "68446ba0-a5c5-4a7e-9211-0ae63fdeb2ce": {
+    "id": "68446ba0-a5c5-4a7e-9211-0ae63fdeb2ce",
+    "name": "Pinus sylvestris",
+    "source": "NCBI",
+    "source_id": "3349",
+    "type": "taxonomy"
+  },
+  "68663c7e-108f-4a81-a12f-96629abf085b": {
+    "id": "68663c7e-108f-4a81-a12f-96629abf085b",
+    "name": "Animals",
+    "source": "NCBI",
+    "source_id": "33208",
+    "type": "taxonomy"
+  },
+  "6a75d676-76db-4896-8ad7-7bd9777f69b3": {
+    "id": "6a75d676-76db-4896-8ad7-7bd9777f69b3",
+    "name": "Xenopus tropicalis",
+    "source": "NCBI",
+    "source_id": "8364",
+    "type": "taxonomy"
+  },
+  "6add751a-d8a0-417d-9a27-178d0a0f8ddf": {
+    "id": "6add751a-d8a0-417d-9a27-178d0a0f8ddf",
+    "name": "Pneumocystis jiroveci",
+    "source": "NCBI",
+    "source_id": "42068",
+    "type": "taxonomy"
+  },
+  "6bafefd3-219b-44d7-81c9-03dd7d05cec4": {
+    "id": "6bafefd3-219b-44d7-81c9-03dd7d05cec4",
+    "name": "Mercenaria mercenaria",
+    "source": "NCBI",
+    "source_id": "6596",
+    "type": "taxonomy"
+  },
+  "6bbfe2fd-f9bb-441c-b57e-c35efde3466c": {
+    "id": "6bbfe2fd-f9bb-441c-b57e-c35efde3466c",
+    "name": "dog",
+    "source": "common toxicological species",
+    "source_id": "WCS_9615",
+    "type": "taxonomy"
+  },
+  "6be0cf3a-f21b-4763-a6e8-5a1c6f2b7912": {
+    "id": "6be0cf3a-f21b-4763-a6e8-5a1c6f2b7912",
+    "name": "Gyps indicus",
+    "source": "NCBI",
+    "source_id": "341451",
+    "type": "taxonomy"
+  },
+  "6ca208cc-b38f-4230-ac8b-3ea58f4434bd": {
+    "id": "6ca208cc-b38f-4230-ac8b-3ea58f4434bd",
+    "name": "Colinus virginianus",
+    "source": "common ecological species",
+    "source_id": "WCS_9014",
+    "type": "taxonomy"
+  },
+  "6ccfcced-8a3c-479e-8b37-7b660e42b087": {
+    "id": "6ccfcced-8a3c-479e-8b37-7b660e42b087",
+    "name": "Gyps rueppelli",
+    "source": "NCBI",
+    "source_id": "8967",
+    "type": "taxonomy"
+  },
+  "6cf77ee9-4456-486a-9314-4e539eb70fb6": {
+    "id": "6cf77ee9-4456-486a-9314-4e539eb70fb6",
+    "name": "Panonychus citri",
+    "source": "NCBI",
+    "source_id": "50023",
+    "type": "taxonomy"
+  },
+  "6e726fed-e1a8-4883-b133-e114f97a68c2": {
+    "id": "6e726fed-e1a8-4883-b133-e114f97a68c2",
+    "name": "Oreochromis niloticus",
+    "source": "NCBI",
+    "source_id": "8128",
+    "type": "taxonomy"
+  },
+  "6e7a39b9-bac5-4f74-95d7-da04d4e35d76": {
+    "id": "6e7a39b9-bac5-4f74-95d7-da04d4e35d76",
+    "name": "pigs",
+    "source": "NCBI",
+    "source_id": "9823",
+    "type": "taxonomy"
+  },
+  "6fbb91ca-3b10-4dcf-8a53-71c882120902": {
+    "id": "6fbb91ca-3b10-4dcf-8a53-71c882120902",
+    "name": "teleost fish",
+    "source": "NCBI",
+    "source_id": "70862",
+    "type": "taxonomy"
+  },
+  "70aa9b95-a513-4122-9cd1-415172d72c05": {
+    "id": "70aa9b95-a513-4122-9cd1-415172d72c05",
+    "name": "Macaca fascicularis",
+    "source": "NCBI",
+    "source_id": "9541",
+    "type": "taxonomy"
+  },
+  "70e35bc4-efa6-48eb-94a5-160ec4d37ad5": {
+    "id": "70e35bc4-efa6-48eb-94a5-160ec4d37ad5",
+    "name": "Tigriopus japonicus",
+    "source": "NCBI",
+    "source_id": "158387",
+    "type": "taxonomy"
+  },
+  "71971505-99ea-46c1-9e11-687b99c948f4": {
+    "id": "71971505-99ea-46c1-9e11-687b99c948f4",
+    "name": "osprey",
+    "source": "common ecological species",
+    "source_id": "WCS_56262",
+    "type": "taxonomy"
+  },
+  "73268b01-d6d7-4d6a-8ebb-8c3037538b4d": {
+    "id": "73268b01-d6d7-4d6a-8ebb-8c3037538b4d",
+    "name": "Mus musculus",
+    "source": "NCBI",
+    "source_id": "10090",
+    "type": "taxonomy"
+  },
+  "73804791-f68c-4416-9573-716ca6d048ad": {
+    "id": "73804791-f68c-4416-9573-716ca6d048ad",
+    "name": "Panthera leo",
+    "source": "NCBI",
+    "source_id": "9689",
+    "type": "taxonomy"
+  },
+  "74449135-76e6-4e17-9531-1005ae77e5bf": {
+    "id": "74449135-76e6-4e17-9531-1005ae77e5bf",
+    "name": "rainbow trout",
+    "source": "common ecological species",
+    "source_id": "WCS_8022",
+    "type": "taxonomy"
+  },
+  "74a136ba-f7f3-486b-b529-47c043337327": {
+    "id": "74a136ba-f7f3-486b-b529-47c043337327",
+    "name": "Dictyostelium discoideum",
+    "source": "NCBI",
+    "source_id": "44689",
+    "type": "taxonomy"
+  },
+  "74ddf42e-bd81-4cc4-9ad3-6405821b843c": {
+    "id": "74ddf42e-bd81-4cc4-9ad3-6405821b843c",
+    "name": "common brandling worm",
+    "source": "common ecological species",
+    "source_id": "WCS_6396",
+    "type": "taxonomy"
+  },
+  "75b04e11-db89-4eb1-b8e1-da5a6503a548": {
+    "id": "75b04e11-db89-4eb1-b8e1-da5a6503a548",
+    "name": "goldfish",
+    "source": "common ecological species",
+    "source_id": "WCS_7957",
+    "type": "taxonomy"
+  },
+  "75c15f5e-85b5-4455-b4fe-1cd8abc24ba3": {
+    "id": "75c15f5e-85b5-4455-b4fe-1cd8abc24ba3",
+    "name": "Daphnia pulicaria",
+    "source": "common ecological species",
+    "source_id": "WCS_35523",
+    "type": "taxonomy"
+  },
+  "763a1cfe-5f9c-4275-a35e-02fa57bf10f6": {
+    "id": "763a1cfe-5f9c-4275-a35e-02fa57bf10f6",
+    "name": "Ostrinia nubilalis",
+    "source": "NCBI",
+    "source_id": "29057",
+    "type": "taxonomy"
+  },
+  "77dbcfee-fed5-4ca3-91b4-d3e6003443d0": {
+    "id": "77dbcfee-fed5-4ca3-91b4-d3e6003443d0",
+    "name": "human",
+    "source": "common toxicological species",
+    "source_id": "WCS_9606",
+    "type": "taxonomy"
+  },
+  "784af437-c20e-48e2-a68c-1557e06de140": {
+    "id": "784af437-c20e-48e2-a68c-1557e06de140",
+    "name": "Cynopterus brachyotis",
+    "source": "NCBI",
+    "source_id": "58060",
+    "type": "taxonomy"
+  },
+  "796ac980-b7dc-43e1-989a-9b2a62261273": {
+    "id": "796ac980-b7dc-43e1-989a-9b2a62261273",
+    "name": "Odocoileus virginianus",
+    "source": "NCBI",
+    "source_id": "9874",
+    "type": "taxonomy"
+  },
+  "7a60edb7-1da4-4aae-b1fd-98d80df23f6b": {
+    "id": "7a60edb7-1da4-4aae-b1fd-98d80df23f6b",
+    "name": "fruit fly",
+    "source": "common ecological species",
+    "source_id": "WCS_7227",
+    "type": "taxonomy"
+  },
+  "7be0084e-5dd4-4cc4-b838-9012d0346f7e": {
+    "id": "7be0084e-5dd4-4cc4-b838-9012d0346f7e",
+    "name": "insects",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_5",
+    "type": "taxonomy"
+  },
+  "7beda8cf-004b-4e62-8523-e54bcaa4bdc7": {
+    "id": "7beda8cf-004b-4e62-8523-e54bcaa4bdc7",
+    "name": "lepidoptera",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_12",
+    "type": "taxonomy"
+  },
+  "7f859aef-6f50-4247-af6b-17cb9296d2c2": {
+    "id": "7f859aef-6f50-4247-af6b-17cb9296d2c2",
+    "name": "killifish",
+    "source": "NCBI",
+    "source_id": "8078",
+    "type": "taxonomy"
+  },
+  "7fac0dfc-a92a-4bf0-88aa-c81580e6eadb": {
+    "id": "7fac0dfc-a92a-4bf0-88aa-c81580e6eadb",
+    "name": "Dreissena polymorpha",
+    "source": "common ecological species",
+    "source_id": "WCS_45954",
+    "type": "taxonomy"
+  },
+  "8066d086-e262-4d0e-956a-f3bbd2a65d3c": {
+    "id": "8066d086-e262-4d0e-956a-f3bbd2a65d3c",
+    "name": "Sprague-Dawley",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_15",
+    "type": "taxonomy"
+  },
+  "80ec11ca-be2a-4ef2-b21f-622b49530fbc": {
+    "id": "80ec11ca-be2a-4ef2-b21f-622b49530fbc",
+    "name": "Homo sapiens",
+    "source": "NCBI",
+    "source_id": "9606",
+    "type": "taxonomy"
+  },
+  "835b0fbb-6523-4935-9767-116101a44a7e": {
+    "id": "835b0fbb-6523-4935-9767-116101a44a7e",
+    "name": "Grapholita molesta",
+    "source": "NCBI",
+    "source_id": "192188",
+    "type": "taxonomy"
+  },
+  "84b86210-a52f-4485-bea0-7e989e6c1e24": {
+    "id": "84b86210-a52f-4485-bea0-7e989e6c1e24",
+    "name": "Phasianus colchicus",
+    "source": "common ecological species",
+    "source_id": "WCS_9054",
+    "type": "taxonomy"
+  },
+  "8599606d-556e-4abc-ba9e-8deb8cd20139": {
+    "id": "8599606d-556e-4abc-ba9e-8deb8cd20139",
+    "name": "Eastern bluebird",
+    "source_id": "WikiUser_21",
+    "type": "taxonomy"
+  },
+  "8702a290-abb6-4b8a-aa15-c71bf50243a5": {
+    "id": "8702a290-abb6-4b8a-aa15-c71bf50243a5",
+    "name": "Myriophyllum spicatum",
+    "source": "NCBI",
+    "source_id": "208873",
+    "type": "taxonomy"
+  },
+  "88500150-c32a-41c0-a81f-41183159e607": {
+    "id": "88500150-c32a-41c0-a81f-41183159e607",
+    "name": "Syrian golden hamster",
+    "source": "NCBI",
+    "source_id": "10036",
+    "type": "taxonomy"
+  },
+  "88e88371-206a-42d2-b906-30c0fde9c0d0": {
+    "id": "88e88371-206a-42d2-b906-30c0fde9c0d0",
+    "name": "nematode",
+    "source": "NCBI",
+    "source_id": "6239",
+    "type": "taxonomy"
+  },
+  "89900769-1667-4c1e-bc0f-301d8bc02ece": {
+    "id": "89900769-1667-4c1e-bc0f-301d8bc02ece",
+    "name": "humans",
+    "source": "common toxicological species",
+    "source_id": "WCS_9606",
+    "type": "taxonomy"
+  },
+  "8c6b9c51-095d-4af7-ac82-38a2cf71574b": {
+    "id": "8c6b9c51-095d-4af7-ac82-38a2cf71574b",
+    "name": "Oncorhynchus keta",
+    "source": "NCBI",
+    "source_id": "8018",
+    "type": "taxonomy"
+  },
+  "8cb6bcc1-1c88-444e-bc5a-53477dfe88dc": {
+    "id": "8cb6bcc1-1c88-444e-bc5a-53477dfe88dc",
+    "name": "rhesus macaques",
+    "source": "NCBI",
+    "source_id": "9544",
+    "type": "taxonomy"
+  },
+  "8d0d0490-2906-4292-8f14-7d7414fd28e7": {
+    "id": "8d0d0490-2906-4292-8f14-7d7414fd28e7",
+    "name": "Lampsilis fasciola",
+    "source": "NCBI",
+    "source_id": "96915",
+    "type": "taxonomy"
+  },
+  "8d577e04-dde9-4b81-be55-23f5e305768e": {
+    "id": "8d577e04-dde9-4b81-be55-23f5e305768e",
+    "name": "Drosophila melanogaster",
+    "source": "common ecological species",
+    "source_id": "WCS_7227",
+    "type": "taxonomy"
+  },
+  "8fe7bf14-9392-47af-9491-22aad9d1d3f9": {
+    "id": "8fe7bf14-9392-47af-9491-22aad9d1d3f9",
+    "name": "Honey bee",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_2",
+    "type": "taxonomy"
+  },
+  "8ffe50ba-4d32-4322-8516-852adcc10273": {
+    "id": "8ffe50ba-4d32-4322-8516-852adcc10273",
+    "name": "American kestrel",
+    "source": "NCBI",
+    "source_id": "56350",
+    "type": "taxonomy"
+  },
+  "900e198e-e49b-4117-ba0e-7c2e43b8160f": {
+    "id": "900e198e-e49b-4117-ba0e-7c2e43b8160f",
+    "name": "Acipenser transmontanus",
+    "source": "NCBI",
+    "source_id": "7904",
+    "type": "taxonomy"
+  },
+  "90a81df5-9f7b-4346-a6f2-eae587947781": {
+    "id": "90a81df5-9f7b-4346-a6f2-eae587947781",
+    "name": "Acipenser fulvescens",
+    "source": "NCBI",
+    "source_id": "41871",
+    "type": "taxonomy"
+  },
+  "90e66469-f77f-4c93-9425-4052e4bffb4c": {
+    "id": "90e66469-f77f-4c93-9425-4052e4bffb4c",
+    "name": "Common Starling",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_16",
+    "type": "taxonomy"
+  },
+  "912388d9-fe01-401b-8cc6-03e8f0e19665": {
+    "id": "912388d9-fe01-401b-8cc6-03e8f0e19665",
+    "name": "Anopheles quadrimaculatus",
+    "source": "NCBI",
+    "source_id": "7166",
+    "type": "taxonomy"
+  },
+  "91addfe1-9605-42cb-a9df-4a65493bd6ef": {
+    "id": "91addfe1-9605-42cb-a9df-4a65493bd6ef",
+    "name": "Xenopus laevis laevis",
+    "source": "NCBI",
+    "source_id": "443947",
+    "type": "taxonomy"
+  },
+  "91ceb43a-a985-4bae-87f1-4e1fd8310774": {
+    "id": "91ceb43a-a985-4bae-87f1-4e1fd8310774",
+    "name": "Mus musculoides",
+    "source": "NCBI",
+    "source_id": "60742",
+    "type": "taxonomy"
+  },
+  "923fd665-6328-4c66-97ea-5cad86fe8995": {
+    "id": "923fd665-6328-4c66-97ea-5cad86fe8995",
+    "name": "hymenoptera",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_11",
+    "type": "taxonomy"
+  },
+  "9247bbde-b931-4376-acfb-dc730228d2ba": {
+    "id": "9247bbde-b931-4376-acfb-dc730228d2ba",
+    "name": "Locusta migratoria",
+    "source": "NCBI",
+    "source_id": "7004",
+    "type": "taxonomy"
+  },
+  "92b1f0ce-f889-4a1e-959e-554cf8b549d2": {
+    "id": "92b1f0ce-f889-4a1e-959e-554cf8b549d2",
+    "name": "thale-cress",
+    "source": "NCBI",
+    "source_id": "3702",
+    "type": "taxonomy"
+  },
+  "92bb8e25-ded2-4d2d-82e8-e3a565290a7d": {
+    "id": "92bb8e25-ded2-4d2d-82e8-e3a565290a7d",
+    "name": "Sphenodon punctatus",
+    "source": "NCBI",
+    "source_id": "8508",
+    "type": "taxonomy"
+  },
+  "92df9f74-7c0a-4bea-8073-68487a6300b8": {
+    "id": "92df9f74-7c0a-4bea-8073-68487a6300b8",
+    "name": "Macaca mulatta",
+    "source": "NCBI",
+    "source_id": "9544",
+    "type": "taxonomy"
+  },
+  "930d903e-7596-432a-831d-3ce60deb97d6": {
+    "id": "930d903e-7596-432a-831d-3ce60deb97d6",
+    "name": "Hydra attenuata",
+    "source": "NCBI",
+    "source_id": "6087",
+    "type": "taxonomy"
+  },
+  "9429012e-d151-4b44-a970-02e34fb6a228": {
+    "id": "9429012e-d151-4b44-a970-02e34fb6a228",
+    "name": "F344 rat",
+    "source": "NCBI",
+    "source_id": "10116",
+    "type": "taxonomy"
+  },
+  "944b8fcd-96fe-4b97-8862-ab4c8e5b57c7": {
+    "id": "944b8fcd-96fe-4b97-8862-ab4c8e5b57c7",
+    "name": "channel catfish",
+    "source": "common ecological species",
+    "source_id": "WCS_7998",
+    "type": "taxonomy"
+  },
+  "946332ef-32fd-4c14-86aa-b9dd99c08d08": {
+    "id": "946332ef-32fd-4c14-86aa-b9dd99c08d08",
+    "name": "Chinook salmon",
+    "source": "common ecological species",
+    "source_id": "WCS_74940",
+    "type": "taxonomy"
+  },
+  "950a399b-df32-4b57-9b8b-5c9bd2c1e5a6": {
+    "id": "950a399b-df32-4b57-9b8b-5c9bd2c1e5a6",
+    "name": "Nilaparvata lugens",
+    "source": "NCBI",
+    "source_id": "108931",
+    "type": "taxonomy"
+  },
+  "95d4229c-e0a8-4038-902c-5533319eeae6": {
+    "id": "95d4229c-e0a8-4038-902c-5533319eeae6",
+    "name": "common marmoset",
+    "source": "NCBI",
+    "source_id": "9483",
+    "type": "taxonomy"
+  },
+  "966b72c9-f4a1-4880-a43e-f23d33d72611": {
+    "id": "966b72c9-f4a1-4880-a43e-f23d33d72611",
+    "name": "cats",
+    "source": "NCBI",
+    "source_id": "9685",
+    "type": "taxonomy"
+  },
+  "973030d4-be9b-4f67-9355-4a89c13ef6c8": {
+    "id": "973030d4-be9b-4f67-9355-4a89c13ef6c8",
+    "name": "Ardea herodias",
+    "source": "common ecological species",
+    "source_id": "WCS_56072",
+    "type": "taxonomy"
+  },
+  "9742f414-2254-449f-aa70-b68c3238ea57": {
+    "id": "9742f414-2254-449f-aa70-b68c3238ea57",
+    "name": "Arctictis binturong",
+    "source": "NCBI",
+    "source_id": "94180",
+    "type": "taxonomy"
+  },
+  "97febaa2-c83d-4cfd-8105-c25f56cc0d88": {
+    "id": "97febaa2-c83d-4cfd-8105-c25f56cc0d88",
+    "name": "Nasua nasua",
+    "source": "NCBI",
+    "source_id": "9651",
+    "type": "taxonomy"
+  },
+  "9863cade-8c50-4b90-868f-aa6b5fe81edb": {
+    "id": "9863cade-8c50-4b90-868f-aa6b5fe81edb",
+    "name": "Rodentia sp.",
+    "source": "NCBI",
+    "source_id": "69158",
+    "type": "taxonomy"
+  },
+  "9a0670d4-1afa-4706-869a-dcb66a9c5515": {
+    "id": "9a0670d4-1afa-4706-869a-dcb66a9c5515",
+    "name": "Spisula solidissima",
+    "source": "NCBI",
+    "source_id": "6584",
+    "type": "taxonomy"
+  },
+  "9a74ee93-7f02-4b27-8456-de5818853972": {
+    "id": "9a74ee93-7f02-4b27-8456-de5818853972",
+    "name": "Dicentrarchus labrax",
+    "source": "NCBI",
+    "source_id": "13489",
+    "type": "taxonomy"
+  },
+  "9c646ccb-6a76-411e-b5ca-9fd3b054b232": {
+    "id": "9c646ccb-6a76-411e-b5ca-9fd3b054b232",
+    "name": "Odontesthes bonariensis",
+    "source": "NCBI",
+    "source_id": "219752",
+    "type": "taxonomy"
+  },
+  "9cecd85f-c79d-4e0c-bcbd-33dca39a91e4": {
+    "id": "9cecd85f-c79d-4e0c-bcbd-33dca39a91e4",
+    "name": "Mephitis mephitis",
+    "source": "NCBI",
+    "source_id": "30548",
+    "type": "taxonomy"
+  },
+  "9d08bfcc-f7e2-4b27-9cd4-12f1396643e7": {
+    "id": "9d08bfcc-f7e2-4b27-9cd4-12f1396643e7",
+    "name": "dogs",
+    "source": "NCBI",
+    "source_id": "9615",
+    "type": "taxonomy"
+  },
+  "9d9de932-2fad-483e-aa39-0db5436e4c26": {
+    "id": "9d9de932-2fad-483e-aa39-0db5436e4c26",
+    "name": "Daphnia magna",
+    "source": "common ecological species",
+    "source_id": "WCS_35525",
+    "type": "taxonomy"
+  },
+  "9dce747f-b125-4bc6-8cff-f1bd25148289": {
+    "id": "9dce747f-b125-4bc6-8cff-f1bd25148289",
+    "name": "Bombus impatiens",
+    "source": "NCBI",
+    "source_id": "132113",
+    "type": "taxonomy"
+  },
+  "9eaa59e6-7670-4128-a55e-1a5c44bd2c40": {
+    "id": "9eaa59e6-7670-4128-a55e-1a5c44bd2c40",
+    "name": "Xenopus (Silurana) n. sp. tetraploid-1",
+    "source": "NCBI",
+    "source_id": "451443",
+    "type": "taxonomy"
+  },
+  "9eed4540-8fb8-4db5-8089-0b773745acad": {
+    "id": "9eed4540-8fb8-4db5-8089-0b773745acad",
+    "name": "Panthera tigris",
+    "source": "NCBI",
+    "source_id": "9694",
+    "type": "taxonomy"
+  },
+  "a07c5945-db7e-4d4d-a130-0192383a3e49": {
+    "id": "a07c5945-db7e-4d4d-a130-0192383a3e49",
+    "name": "Primates sp. BOLD:AAA0001",
+    "source": "NCBI",
+    "source_id": "976298",
+    "type": "taxonomy"
+  },
+  "a27b4c70-232b-4c54-9167-a59f17b29a3c": {
+    "id": "a27b4c70-232b-4c54-9167-a59f17b29a3c",
+    "name": "orius isidiosus",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_13",
+    "type": "taxonomy"
+  },
+  "a397b83f-a920-42ab-bccd-6966c26e7254": {
+    "id": "a397b83f-a920-42ab-bccd-6966c26e7254",
+    "name": "domestic cattle",
+    "source": "common ecological species",
+    "source_id": "WCS_9913",
+    "type": "taxonomy"
+  },
+  "a5a8377b-08b8-4921-b9f2-610439c72afc": {
+    "id": "a5a8377b-08b8-4921-b9f2-610439c72afc",
+    "name": "crab eating macaque",
+    "source": "NCBI",
+    "source_id": "9541",
+    "type": "taxonomy"
+  },
+  "a638d8dc-4827-4364-9e3a-81c834fa0b0f": {
+    "id": "a638d8dc-4827-4364-9e3a-81c834fa0b0f",
+    "name": "Botryococcus braunii",
+    "source": "NCBI",
+    "source_id": "38881",
+    "type": "taxonomy"
+  },
+  "a63b8a97-f024-4322-81a6-01e3a0350dca": {
+    "id": "a63b8a97-f024-4322-81a6-01e3a0350dca",
+    "name": "Oryctolagus cuniculus",
+    "source": "NCBI",
+    "source_id": "9986",
+    "type": "taxonomy"
+  },
+  "a6b72552-ebd9-4fa0-a8f0-551a80fd61cc": {
+    "id": "a6b72552-ebd9-4fa0-a8f0-551a80fd61cc",
+    "name": "bivalves",
+    "source": "common ecological species",
+    "source_id": "WCS_396373",
+    "type": "taxonomy"
+  },
+  "a84b633c-5126-46bc-b7d2-faca8f383a0b": {
+    "id": "a84b633c-5126-46bc-b7d2-faca8f383a0b",
+    "name": "Carassius carassius",
+    "source": "NCBI",
+    "source_id": "217509",
+    "type": "taxonomy"
+  },
+  "aaa36889-3a56-4e04-bd3e-b9c9b352aaca": {
+    "id": "aaa36889-3a56-4e04-bd3e-b9c9b352aaca",
+    "name": "Pan troglodytes",
+    "source": "NCBI",
+    "source_id": "9598",
+    "type": "taxonomy"
+  },
+  "abf185bd-38ba-4dad-a965-112133aa0abc": {
+    "id": "abf185bd-38ba-4dad-a965-112133aa0abc",
+    "name": "gastropods",
+    "source": "common ecological species",
+    "source_id": "WCS_160004",
+    "type": "taxonomy"
+  },
+  "ac637ae3-590c-4241-907e-73df7c356615": {
+    "id": "ac637ae3-590c-4241-907e-73df7c356615",
+    "name": "bluefin tuna",
+    "source": "NCBI",
+    "source_id": "8237",
+    "type": "taxonomy"
+  },
+  "ad40d54a-f7b9-4d1c-86ea-48ce0653d409": {
+    "id": "ad40d54a-f7b9-4d1c-86ea-48ce0653d409",
+    "name": "rabbits",
+    "source": "NCBI",
+    "source_id": "9986",
+    "type": "taxonomy"
+  },
+  "af8d6acd-1aa5-4d52-aca5-fb10cdf6d905": {
+    "id": "af8d6acd-1aa5-4d52-aca5-fb10cdf6d905",
+    "name": "Oryza sativa",
+    "source": "common ecological species",
+    "source_id": "WCS_4530",
+    "type": "taxonomy"
+  },
+  "b079664b-2ac2-4854-ad70-82f47eed9db9": {
+    "id": "b079664b-2ac2-4854-ad70-82f47eed9db9",
+    "name": "Xenopus sp.",
+    "source": "NCBI",
+    "source_id": "8356",
+    "type": "taxonomy"
+  },
+  "b07c625b-7080-467a-bb44-077891a00528": {
+    "id": "b07c625b-7080-467a-bb44-077891a00528",
+    "name": "Tupaia belangeri chinensis",
+    "source": "NCBI",
+    "source_id": "246437",
+    "type": "taxonomy"
+  },
+  "b27f4713-408e-4e86-b46b-0d7650cac966": {
+    "id": "b27f4713-408e-4e86-b46b-0d7650cac966",
+    "name": "Hippopotamus amphibius",
+    "source": "NCBI",
+    "source_id": "9833",
+    "type": "taxonomy"
+  },
+  "b2dac020-fddf-401e-a589-cc439f6b7a85": {
+    "id": "b2dac020-fddf-401e-a589-cc439f6b7a85",
+    "name": "Gammarus pulex",
+    "source": "NCBI",
+    "source_id": "52641",
+    "type": "taxonomy"
+  },
+  "b3a38ce1-6fed-4f5b-b186-6359788a24c2": {
+    "id": "b3a38ce1-6fed-4f5b-b186-6359788a24c2",
+    "name": "Mamestra brassicae",
+    "source": "NCBI",
+    "source_id": "55057",
+    "type": "taxonomy"
+  },
+  "b3da9a5a-b002-4b91-b927-2e3a6bb55ee5": {
+    "id": "b3da9a5a-b002-4b91-b927-2e3a6bb55ee5",
+    "name": "swine",
+    "source": "NCBI",
+    "source_id": "9823",
+    "type": "taxonomy"
+  },
+  "b5bcb04c-7038-4f11-9731-51d8f0b169ad": {
+    "id": "b5bcb04c-7038-4f11-9731-51d8f0b169ad",
+    "name": "Neovison vison",
+    "source": "common ecological species",
+    "source_id": "WCS_452646",
+    "type": "taxonomy"
+  },
+  "b5bfac63-338b-4848-aaa7-0fcf951b40ef": {
+    "id": "b5bfac63-338b-4848-aaa7-0fcf951b40ef",
+    "name": "Salmo salar",
+    "source": "NCBI",
+    "source_id": "8030",
+    "type": "taxonomy"
+  },
+  "b6e01ccc-8fbc-4aca-a230-c59efc146a82": {
+    "id": "b6e01ccc-8fbc-4aca-a230-c59efc146a82",
+    "name": "zebra fish",
+    "source": "NCBI",
+    "source_id": "7955",
+    "type": "taxonomy"
+  },
+  "b6f4d8ac-c817-44b3-96fa-7d9e6665c92f": {
+    "id": "b6f4d8ac-c817-44b3-96fa-7d9e6665c92f",
+    "name": "human, mouse, rat",
+    "source": "Wikiuser: Cyauk",
+    "source_id": "WikiUser_1",
+    "type": "taxonomy"
+  },
+  "b7c774d2-3b2a-4570-969e-9364543da4a3": {
+    "id": "b7c774d2-3b2a-4570-969e-9364543da4a3",
+    "name": "Scotch pine",
+    "source": "NCBI",
+    "source_id": "3349",
+    "type": "taxonomy"
+  },
+  "b832dfa2-0954-48bf-8dbc-d659680f0d64": {
+    "id": "b832dfa2-0954-48bf-8dbc-d659680f0d64",
+    "name": "Erinaceus europaeus",
+    "source": "NCBI",
+    "source_id": "9365",
+    "type": "taxonomy"
+  },
+  "b8878528-a847-4144-bd2f-f1eb76e3fe8c": {
+    "id": "b8878528-a847-4144-bd2f-f1eb76e3fe8c",
+    "name": "Prionailurus viverrinus",
+    "source": "NCBI",
+    "source_id": "61388",
+    "type": "taxonomy"
+  },
+  "b89f908d-a12e-4455-b2ee-a33d0e337f98": {
+    "id": "b89f908d-a12e-4455-b2ee-a33d0e337f98",
+    "name": "chickens",
+    "source": "NCBI",
+    "source_id": "9031",
+    "type": "taxonomy"
+  },
+  "b8a17c88-a877-43fc-adac-00a2f1c150be": {
+    "id": "b8a17c88-a877-43fc-adac-00a2f1c150be",
+    "name": "Bubalus bubalis",
+    "source": "NCBI",
+    "source_id": "89462",
+    "type": "taxonomy"
+  },
+  "b9faa6d7-da06-4ae0-8d5a-f8f9c9b1b88f": {
+    "id": "b9faa6d7-da06-4ae0-8d5a-f8f9c9b1b88f",
+    "name": "SD rat",
+    "source": "NCBI",
+    "source_id": "10116",
+    "type": "taxonomy"
+  },
+  "bb2fb916-235d-4a63-9c12-539eab3bede5": {
+    "id": "bb2fb916-235d-4a63-9c12-539eab3bede5",
+    "name": "Gyps himalayensis",
+    "source": "NCBI",
+    "source_id": "36248",
+    "type": "taxonomy"
+  },
+  "bcd57398-eb46-4cf9-b127-4dd7506f6fc2": {
+    "id": "bcd57398-eb46-4cf9-b127-4dd7506f6fc2",
+    "name": "all species",
+    "source_id": "WikiUser_22",
+    "type": "taxonomy"
+  },
+  "bd19f365-47bb-4114-b344-341488f55c27": {
+    "id": "bd19f365-47bb-4114-b344-341488f55c27",
+    "name": "Bos taurus",
+    "source": "common ecological species",
+    "source_id": "WCS_9913",
+    "type": "taxonomy"
+  },
+  "bd96d429-c838-4042-bbbe-99611afdf805": {
+    "id": "bd96d429-c838-4042-bbbe-99611afdf805",
+    "name": "Lithobates catesbeianus",
+    "source": "NCBI",
+    "source_id": "8400",
+    "type": "taxonomy"
+  },
+  "befb0b6a-6d4c-4deb-8f81-195f2ba74931": {
+    "id": "befb0b6a-6d4c-4deb-8f81-195f2ba74931",
+    "name": "mice",
+    "source": "NCBI",
+    "source_id": "10095",
+    "type": "taxonomy"
+  },
+  "c05b8561-77ad-4f90-962e-605b3996a932": {
+    "id": "c05b8561-77ad-4f90-962e-605b3996a932",
+    "name": "Gallus gallus",
+    "source": "common ecological species",
+    "source_id": "WCS_9031",
+    "type": "taxonomy"
+  },
+  "c18725b5-a226-4ee0-ac12-fb7b95f53cea": {
+    "id": "c18725b5-a226-4ee0-ac12-fb7b95f53cea",
+    "name": "ferret",
+    "source": "NCBI",
+    "source_id": "9669",
+    "type": "taxonomy"
+  },
+  "c25aa1b6-3581-4a59-859d-1769f9707c17": {
+    "id": "c25aa1b6-3581-4a59-859d-1769f9707c17",
+    "name": "yeast",
+    "source": "NCBI",
+    "source_id": "4932",
+    "type": "taxonomy"
+  },
+  "c26a4c8f-7528-424b-9a87-02c93cde3e5f": {
+    "id": "c26a4c8f-7528-424b-9a87-02c93cde3e5f",
+    "name": "Nyctereutes procyonoides",
+    "source": "NCBI",
+    "source_id": "34880",
+    "type": "taxonomy"
+  },
+  "c26ebaf8-c439-401a-8a60-0532386c0190": {
+    "id": "c26ebaf8-c439-401a-8a60-0532386c0190",
+    "name": "Chlamydomonas reinhardtii CC3269",
+    "source": "NCBI",
+    "source_id": "906914",
+    "type": "taxonomy"
+  },
+  "c297ca88-76a1-4114-af04-3d4b10f258b0": {
+    "id": "c297ca88-76a1-4114-af04-3d4b10f258b0",
+    "name": "Nycticorax nycticorax",
+    "source": "NCBI",
+    "source_id": "8901",
+    "type": "taxonomy"
+  },
+  "c304d82f-94df-44fb-ad1d-8b54f1085232": {
+    "id": "c304d82f-94df-44fb-ad1d-8b54f1085232",
+    "name": "Placental Mammals",
+    "source": "NCBI",
+    "source_id": "9347",
+    "type": "taxonomy"
+  },
+  "c40aecf5-7f85-4774-9eb4-1e8349afc1f1": {
+    "id": "c40aecf5-7f85-4774-9eb4-1e8349afc1f1",
+    "name": "Atlantic killifish",
+    "source": "NCBI",
+    "source_id": "8078",
+    "type": "taxonomy"
+  },
+  "c5ecfbcc-9085-4cf0-800c-dd100b62fcf4": {
+    "id": "c5ecfbcc-9085-4cf0-800c-dd100b62fcf4",
+    "name": "Ovis aries",
+    "source": "NCBI",
+    "source_id": "9940",
+    "type": "taxonomy"
+  },
+  "c6810034-da88-469a-95cc-5ff59e453d72": {
+    "id": "c6810034-da88-469a-95cc-5ff59e453d72",
+    "name": "chaetanaphothrips orchidii",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_10",
+    "type": "taxonomy"
+  },
+  "c6a0e92c-500d-4d11-b6a1-6198f085f860": {
+    "id": "c6a0e92c-500d-4d11-b6a1-6198f085f860",
+    "name": "Rodentia spp.",
+    "source": "NCBI",
+    "source_id": "69158",
+    "type": "taxonomy"
+  },
+  "c743c85a-3f5a-42b6-81f2-96af09fec04c": {
+    "id": "c743c85a-3f5a-42b6-81f2-96af09fec04c",
+    "name": "Odocoileus virginianus texanus",
+    "source": "NCBI",
+    "source_id": "9880",
+    "type": "taxonomy"
+  },
+  "c77cd816-b9f8-436b-b2bc-b502794ddcd7": {
+    "id": "c77cd816-b9f8-436b-b2bc-b502794ddcd7",
+    "name": "Microgadus tomcod",
+    "source": "NCBI",
+    "source_id": "34823",
+    "type": "taxonomy"
+  },
+  "c8f5eb44-1eeb-49ff-9187-b96d178453fb": {
+    "id": "c8f5eb44-1eeb-49ff-9187-b96d178453fb",
+    "name": "Artemia salina",
+    "source": "NCBI",
+    "source_id": "85549",
+    "type": "taxonomy"
+  },
+  "c9e94a2b-0f7c-4233-a6a1-6211487ad7ff": {
+    "id": "c9e94a2b-0f7c-4233-a6a1-6211487ad7ff",
+    "name": "Strigops habroptilus",
+    "source": "NCBI",
+    "source_id": "57251",
+    "type": "taxonomy"
+  },
+  "caa6d514-976b-4031-8db7-3bb4e054bc74": {
+    "id": "caa6d514-976b-4031-8db7-3bb4e054bc74",
+    "name": "gilthead bream",
+    "source": "NCBI",
+    "source_id": "8175",
+    "type": "taxonomy"
+  },
+  "cb6b9877-b74a-4f36-8075-fb74b7decbaa": {
+    "id": "cb6b9877-b74a-4f36-8075-fb74b7decbaa",
+    "name": "Lymnaea stagnalis",
+    "source": "NCBI",
+    "source_id": "6523",
+    "type": "taxonomy"
+  },
+  "cb6d55d1-5aa3-4cd8-8fb9-2a1863d5e0cc": {
+    "id": "cb6d55d1-5aa3-4cd8-8fb9-2a1863d5e0cc",
+    "name": "Sus scrofa",
+    "source": "NCBI",
+    "source_id": "9823",
+    "type": "taxonomy"
+  },
+  "cc5e716f-5dca-47fc-bddd-79283740b37f": {
+    "id": "cc5e716f-5dca-47fc-bddd-79283740b37f",
+    "name": "Haliaeetus leucocephalus",
+    "source": "NCBI",
+    "source_id": "52644",
+    "type": "taxonomy"
+  },
+  "ccdf6251-99a1-415b-8a47-b4cfe2e062a1": {
+    "id": "ccdf6251-99a1-415b-8a47-b4cfe2e062a1",
+    "name": "Danio rerio",
+    "source": "common ecological species",
+    "source_id": "WCS_7955",
+    "type": "taxonomy"
+  },
+  "cd4b68fc-a8d5-43bb-b0db-cc227ee42ba6": {
+    "id": "cd4b68fc-a8d5-43bb-b0db-cc227ee42ba6",
+    "name": "Monkey sp.",
+    "source": "NCBI",
+    "source_id": "70699",
+    "type": "taxonomy"
+  },
+  "cde2e44a-2853-403a-8655-6cad50b56660": {
+    "id": "cde2e44a-2853-403a-8655-6cad50b56660",
+    "name": "Rana cyanophlyetis",
+    "source": "NCBI",
+    "source_id": "58519",
+    "type": "taxonomy"
+  },
+  "d1f7cf18-040f-4a12-b092-68a77894ff07": {
+    "id": "d1f7cf18-040f-4a12-b092-68a77894ff07",
+    "name": "Amphibia",
+    "source": "NCBI",
+    "source_id": "8292",
+    "type": "taxonomy"
+  },
+  "d21e5e4d-01ec-4e39-8ef3-4f75ce12dae2": {
+    "id": "d21e5e4d-01ec-4e39-8ef3-4f75ce12dae2",
+    "name": "Puma concolor",
+    "source": "NCBI",
+    "source_id": "9696",
+    "type": "taxonomy"
+  },
+  "d3b90eb1-ddf7-44b9-9e4c-66794a46eee8": {
+    "id": "d3b90eb1-ddf7-44b9-9e4c-66794a46eee8",
+    "name": "turkey",
+    "source": "common ecological species",
+    "source_id": "WCS_9103",
+    "type": "taxonomy"
+  },
+  "d4a412f1-c5f4-467f-b68f-6022b5f267b9": {
+    "id": "d4a412f1-c5f4-467f-b68f-6022b5f267b9",
+    "name": "cat",
+    "source": "NCBI",
+    "source_id": "9685",
+    "type": "taxonomy"
+  },
+  "d4e94ebb-a2d0-4ea3-93bc-998efb1ba233": {
+    "id": "d4e94ebb-a2d0-4ea3-93bc-998efb1ba233",
+    "name": "cynomolgus monkeys",
+    "source": "NCBI",
+    "source_id": "9541",
+    "type": "taxonomy"
+  },
+  "d51ee234-d3b2-4213-9eb3-9266daf4c40e": {
+    "id": "d51ee234-d3b2-4213-9eb3-9266daf4c40e",
+    "name": "Cynops pyrrhogaster",
+    "source": "NCBI",
+    "source_id": "8330",
+    "type": "taxonomy"
+  },
+  "d52c7318-d66e-4342-856b-c5ab51d580d6": {
+    "id": "d52c7318-d66e-4342-856b-c5ab51d580d6",
+    "name": "Metapenaeus monoceros",
+    "source": "NCBI",
+    "source_id": "1211424",
+    "type": "taxonomy"
+  },
+  "d714a243-a213-4390-b08c-019facf0f1c1": {
+    "id": "d714a243-a213-4390-b08c-019facf0f1c1",
+    "name": "Philosamia ricini",
+    "source": "NCBI",
+    "source_id": "63990",
+    "type": "taxonomy"
+  },
+  "df099746-9a31-403a-987e-413d593f55e1": {
+    "id": "df099746-9a31-403a-987e-413d593f55e1",
+    "name": "Canis lupus familiaris",
+    "source": "NCBI",
+    "source_id": "9615",
+    "type": "taxonomy"
+  },
+  "dff004ea-1faa-4a73-81f1-d9cbb3af9b7a": {
+    "id": "dff004ea-1faa-4a73-81f1-d9cbb3af9b7a",
+    "name": "earthworms",
+    "source": "NCBI",
+    "source_id": "71170",
+    "type": "taxonomy"
+  },
+  "e0845ce2-c8a2-4a6d-97d7-26a30565b600": {
+    "id": "e0845ce2-c8a2-4a6d-97d7-26a30565b600",
+    "name": "Echinogammarus marinus",
+    "source": "NCBI",
+    "source_id": "52640",
+    "type": "taxonomy"
+  },
+  "e0a3b27c-b07b-42b3-b172-136642ab45c8": {
+    "id": "e0a3b27c-b07b-42b3-b172-136642ab45c8",
+    "name": "Aonyx cinereus",
+    "source": "NCBI",
+    "source_id": "452597",
+    "type": "taxonomy"
+  },
+  "e10e8c73-619e-4c43-8d04-f49d32b261d2": {
+    "id": "e10e8c73-619e-4c43-8d04-f49d32b261d2",
+    "name": "chickens, ducks, turkeys",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_23",
+    "type": "taxonomy"
+  },
+  "e118ebd4-c4f3-46ca-845d-23bc2f04ea3f": {
+    "id": "e118ebd4-c4f3-46ca-845d-23bc2f04ea3f",
+    "name": "Gyps fulvus",
+    "source": "NCBI",
+    "source_id": "36247",
+    "type": "taxonomy"
+  },
+  "e1cebee4-2c0a-4b3a-a6f6-f5f648e311ff": {
+    "id": "e1cebee4-2c0a-4b3a-a6f6-f5f648e311ff",
+    "name": "fish",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_6",
+    "type": "taxonomy"
+  },
+  "e227f81e-6f95-4195-92af-d7ca66cf7e57": {
+    "id": "e227f81e-6f95-4195-92af-d7ca66cf7e57",
+    "name": "Castor fiber",
+    "source": "NCBI",
+    "source_id": "10185",
+    "type": "taxonomy"
+  },
+  "e3d0ae3e-5c73-4a39-949f-e071d1de4b91": {
+    "id": "e3d0ae3e-5c73-4a39-949f-e071d1de4b91",
+    "name": "Mustela putorius furo",
+    "source": "NCBI",
+    "source_id": "9669",
+    "type": "taxonomy"
+  },
+  "e3f81aff-eab3-49ea-bc42-ecfc880509c5": {
+    "id": "e3f81aff-eab3-49ea-bc42-ecfc880509c5",
+    "name": "medaka",
+    "source": "NCBI",
+    "source_id": "8090",
+    "type": "taxonomy"
+  },
+  "e483fbfb-54fd-4cba-b393-06c289ea25f0": {
+    "id": "e483fbfb-54fd-4cba-b393-06c289ea25f0",
+    "name": "Mus sp. 09ZR5#43",
+    "source": "NCBI",
+    "source_id": "1090580",
+    "type": "taxonomy"
+  },
+  "e4d93f0f-ea67-4bbd-91ff-641b6de5c510": {
+    "id": "e4d93f0f-ea67-4bbd-91ff-641b6de5c510",
+    "name": "Anodonta cygnea",
+    "source": "NCBI",
+    "source_id": "47528",
+    "type": "taxonomy"
+  },
+  "e5b66b0f-c02c-42aa-a570-586be2415603": {
+    "id": "e5b66b0f-c02c-42aa-a570-586be2415603",
+    "name": "Mammalia sp. AVB-2011",
+    "source": "NCBI",
+    "source_id": "1002698",
+    "type": "taxonomy"
+  },
+  "e5fa015e-6d87-49ab-bef4-afdc391357c7": {
+    "id": "e5fa015e-6d87-49ab-bef4-afdc391357c7",
+    "name": "Plasmodium falciparum",
+    "source": "NCBI",
+    "source_id": "5833",
+    "type": "taxonomy"
+  },
+  "e68099ff-47d6-4825-af9b-39eddd4fb248": {
+    "id": "e68099ff-47d6-4825-af9b-39eddd4fb248",
+    "name": "Argopecten irradians",
+    "source": "NCBI",
+    "source_id": "31199",
+    "type": "taxonomy"
+  },
+  "e68de00d-c0cc-47af-825b-6856d964704c": {
+    "id": "e68de00d-c0cc-47af-825b-6856d964704c",
+    "name": "Lucilia cuprina",
+    "source": "NCBI",
+    "source_id": "7375",
+    "type": "taxonomy"
+  },
+  "e6e33517-51c8-4d86-8213-fa0879d89653": {
+    "id": "e6e33517-51c8-4d86-8213-fa0879d89653",
+    "name": "Order carcharhiniformes",
+    "source": "NCBI",
+    "source_id": "30483",
+    "type": "taxonomy"
+  },
+  "e82745e8-43dd-408f-a456-70e257d65e14": {
+    "id": "e82745e8-43dd-408f-a456-70e257d65e14",
+    "name": "Acyrthosiphon kondoi",
+    "source": "NCBI",
+    "source_id": "34664",
+    "type": "taxonomy"
+  },
+  "ed3f4180-5425-4c2a-bfe2-8fc3f52be834": {
+    "id": "ed3f4180-5425-4c2a-bfe2-8fc3f52be834",
+    "name": "Tribolium castaneum",
+    "source": "NCBI",
+    "source_id": "7070",
+    "type": "taxonomy"
+  },
+  "ed6e261a-da8b-4cdf-ab9a-51d7de1a5a66": {
+    "id": "ed6e261a-da8b-4cdf-ab9a-51d7de1a5a66",
+    "name": "Syrian hamster",
+    "source": "NCBI",
+    "source_id": "10036",
+    "type": "taxonomy"
+  },
+  "edb410ff-98fe-47c1-8fae-8e7e6e51bf01": {
+    "id": "edb410ff-98fe-47c1-8fae-8e7e6e51bf01",
+    "name": "zebra danio",
+    "source": "NCBI",
+    "source_id": "7955",
+    "type": "taxonomy"
+  },
+  "eeaf8d7d-15c9-4615-9eff-81ab84036de6": {
+    "id": "eeaf8d7d-15c9-4615-9eff-81ab84036de6",
+    "name": "Meleagris gallopavo",
+    "source": "common ecological species",
+    "source_id": "WCS_9103",
+    "type": "taxonomy"
+  },
+  "ef72afb3-d8cd-4d30-9518-00181ef50e25": {
+    "id": "ef72afb3-d8cd-4d30-9518-00181ef50e25",
+    "name": "Human, rat, mouse",
+    "source": "Wikiuser: Blandesmann",
+    "source_id": "WikiUser_4",
+    "type": "taxonomy"
+  },
+  "f15663c3-4f4c-4712-8641-2b0dd4a646b6": {
+    "id": "f15663c3-4f4c-4712-8641-2b0dd4a646b6",
+    "name": "canine heartworm nematode",
+    "source": "NCBI",
+    "source_id": "6287",
+    "type": "taxonomy"
+  },
+  "f30f82e9-81c7-473e-8bb5-8c668133e68d": {
+    "id": "f30f82e9-81c7-473e-8bb5-8c668133e68d",
+    "name": "eisenia fetida",
+    "source": "common ecological species",
+    "source_id": "WCS_6396",
+    "type": "taxonomy"
+  },
+  "f3ee2b05-acd2-427c-baa6-efedd4d105bc": {
+    "id": "f3ee2b05-acd2-427c-baa6-efedd4d105bc",
+    "name": "rats",
+    "source": "NCBI",
+    "source_id": "10116",
+    "type": "taxonomy"
+  },
+  "f4af8781-a4ea-4744-9083-5ff5abcf2e9c": {
+    "id": "f4af8781-a4ea-4744-9083-5ff5abcf2e9c",
+    "name": "rat",
+    "source": "NCBI",
+    "source_id": "10116",
+    "type": "taxonomy"
+  },
+  "f4eac2ca-0689-437b-af49-420ec5368cbe": {
+    "id": "f4eac2ca-0689-437b-af49-420ec5368cbe",
+    "name": "Pimephales promelas",
+    "source": "common ecological species",
+    "source_id": "WCS_90988",
+    "type": "taxonomy"
+  },
+  "f7d7110e-aff7-49e3-b031-f359648eeaf0": {
+    "id": "f7d7110e-aff7-49e3-b031-f359648eeaf0",
+    "name": "Canis lupus",
+    "source": "NCBI",
+    "source_id": "9612",
+    "type": "taxonomy"
+  },
+  "f85b8813-b724-4dd6-9f16-047f2b41c39f": {
+    "id": "f85b8813-b724-4dd6-9f16-047f2b41c39f",
+    "name": "tritonea diomedea",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_7",
+    "type": "taxonomy"
+  },
+  "f8bc0bd4-b41e-416c-9f46-0babc66284ff": {
+    "id": "f8bc0bd4-b41e-416c-9f46-0babc66284ff",
+    "name": "Mus musculus musculus",
+    "source": "NCBI",
+    "source_id": "39442",
+    "type": "taxonomy"
+  },
+  "f9e62e9f-aafa-43d0-b528-3acbd50ef8a6": {
+    "id": "f9e62e9f-aafa-43d0-b528-3acbd50ef8a6",
+    "name": "rodentia",
+    "source": "ApacheUser",
+    "source_id": "WikiUser_19",
+    "type": "taxonomy"
+  },
+  "fa3271d6-3277-4416-a183-e5d5877d18d6": {
+    "id": "fa3271d6-3277-4416-a183-e5d5877d18d6",
+    "name": "Skeletonema pseudocostatum",
+    "source": "NCBI",
+    "source_id": "41457",
+    "type": "taxonomy"
+  },
+  "fba4397d-aaaa-461f-93d0-76cb3aadd98f": {
+    "id": "fba4397d-aaaa-461f-93d0-76cb3aadd98f",
+    "name": "mink",
+    "source": "NCBI",
+    "source_id": "9666",
+    "type": "taxonomy"
+  },
+  "fca4c32c-0b48-4038-a75d-e30d8f791a4d": {
+    "id": "fca4c32c-0b48-4038-a75d-e30d8f791a4d",
+    "name": "Rattus sp. ABTC 43906",
+    "source": "NCBI",
+    "source_id": "435440",
+    "type": "taxonomy"
+  },
+  "ff032631-efba-447c-92b8-036b56f959de": {
+    "id": "ff032631-efba-447c-92b8-036b56f959de",
+    "name": "European sea bass",
+    "source": "NCBI",
+    "source_id": "13489",
+    "type": "taxonomy"
+  }
+}

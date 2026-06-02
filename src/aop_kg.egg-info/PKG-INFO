@@ -1,0 +1,61 @@
+Metadata-Version: 2.4
+Name: aop-kg
+Version: 0.1.0
+Summary: Knowledge graph tools for Adverse Outcome Pathways
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: beautifulsoup4>=4.12
+Requires-Dist: igraph>=1.0.0
+
+# AOP-KG: Knowledge graph tools for Adverse Outcome Pathways
+
+Adverse Outcome Pathways (AOPs) are a knowledge framework linking a Molecular Initiating Event (MIE) to an Adverse Outcome (AO) through a series of Key Events (KEs). Biological, chemical, and enviromental concepts compose each element in the AOP and are linked through directional relationships, which is exactly the same thing as a knowledge graph (KG).
+
+## Overview
+Rather than building a KG from scratch, it's easier to connect to existing ones. 
+
+### Data sources
+This repository contains some tools for aggregating established AOPs from source databases:
+- [AOPWiki](https://aopwiki.org/)
+- More to come...
+
+### Concept normalization
+
+To ensure conceptual elements (biological, chemical, environmental, etc.) are not duplicated, they must be linked to ontological identifiers. Most data sources contain identifiers that we can leverage.
+
+### KG integration
+
+More to come...
+
+
+## Installation
+
+Using `uv` is recommended.
+
+Install the package into the current environment:
+
+```bash
+uv pip install .
+```
+
+For development, install in editable mode:
+
+```bash
+uv pip install -e .
+```
+
+## AOP-Wiki XML conversion
+
+The converter is based on the AopXml 2.7.0 schema and writes both normalized JSONL entity files and graph-friendly CSV tables.
+
+```bash
+# Optional: keep a local copy of the schema used by the converter
+mkdir -p schema
+curl -L https://raw.githubusercontent.com/swandle06/AopXml/2.7.0/assets/schema/current.xsd \
+  -o schema/aopxml-current-2.7.0.xsd
+
+# Convert the April 2026 AOP-Wiki export
+uv run aopwiki-convert aop-wiki-xml-2026-04-01.xml -o data/aopwiki_converted
+```
+
+Outputs include `nodes.csv`, `edges.csv`, `summary.json`, and JSONL files for AOPs, key events, key-event relationships, stressors, chemicals, taxonomies, and biological terms.

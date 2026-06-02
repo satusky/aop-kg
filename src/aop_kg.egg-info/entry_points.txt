@@ -1,0 +1,3 @@
+[console_scripts]
+aopwiki-convert = aop_kg.aopwiki.convert_xml:main
+aopwiki-visualize = aop_kg.aopwiki.visualize_graph:main
